@@ -1,1 +1,6 @@
+# macOS
 .DS_Store
+
+# 하네스 작업 상태와 Hyper 도구 산출물. 조직 프로필 저장소에는 올리지 않습니다.
+.omo/
+.hyper/
